@@ -1,0 +1,30 @@
+_repo: The-Magical-Land-of-Noom_62440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gruelle, Johnny
+    alias: Gruelle, John B. (John Barton)
+    birthdate: 1880
+    deathdate: 1938
+    gutenberg_agent_id: '3936'
+    url: http://www.gutenberg.org/2009/agents/3936
+    wikipedia: https://en.wikipedia.org/wiki/Johnny_Gruelle
+description: Illustrated by the author.
+gutenberg_issued: '2020-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62440'
+  lccn: '23001778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moon -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Flying-machines -- Juvenile fiction'
+- GITenberg
+title: The Magical Land of Noom
+url: http://www.gutenberg.org/ebooks/62440
